@@ -1,0 +1,4 @@
+*.o
+*.a
+*_genmod.f90
+*_genmod.mod
