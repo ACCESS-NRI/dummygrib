@@ -1,0 +1,4 @@
+dummygrib
+=========
+
+Dummy GRIB library
